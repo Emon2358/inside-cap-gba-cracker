@@ -83,5 +83,5 @@ def main(filename):
 
 if __name__ == "__main__":
     # ここに直接ファイルパスを入力
-    filename = r"C:\Users\Kinne\Downloads\9992 - Suigetu (JP)\9992 - Suigetu (JP).gba"
+    filename = r"path/to/your/rom.gba"
     main(filename)
